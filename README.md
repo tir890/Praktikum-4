@@ -94,3 +94,4 @@ print("="*73)
 ![foto](https://github.com/tir890/foto/blob/73150fe29306bfbae19f576331b848d48cf7a0b2/Screenshot%202024-11-19%20152932.png)
 
 ## Gambar Flowchart
+![foto](https://github.com/tir890/foto/blob/395439ce1bd4f199b2515b63c8e84e966d317d8b/Flowchart.png)
