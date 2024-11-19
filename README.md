@@ -64,7 +64,9 @@ data_mahasiswa.append({
 
 ## Konfirmasi untuk Menambah Data Lagi
 Setelah data selesai dimasukkan, program bertanya apakah pengguna ingin menambah data lagi:
+
 •	Jika memilih `y`, program kembali ke awal perulangan untuk memasukkan data baru.
+
 •	Jika memilih `t`, perulangan dihentikan dan program lanjut ke langkah berikutnya untuk menampilkan data.
 ```python
 tambah = input("Tambah data lagi (y/t)? ").lower()
@@ -74,7 +76,9 @@ if tambah == 't':
 
 ## Menampilkan Data dalam Bentuk Tabel
 Setelah pengguna memilih untuk berhenti, program menampilkan semua data mahasiswa yang telah dimasukkan dalam format tabel yang rapi.
+
 •	Header tabel disusun menggunakan `f-string` dan `print`.
+
 •	Setiap baris data ditampilkan dalam format tabel yang sama menggunakan perulangan `for`.
 ```python
 print("\nData Mahasiswa:")
