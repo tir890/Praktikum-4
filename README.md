@@ -23,11 +23,11 @@ Program berjalan dalam perulangan `while` agar pengguna bisa memasukkan data seb
 ## Input Data Mahasiswa
 Di dalam perulangan, pengguna diminta untuk memasukkan data berikut:
 
-Nama mahasiswa: Input string.
+•	Nama mahasiswa: Input string.
 
-NIM mahasiswa: Input string.
+•	NIM mahasiswa: Input string.
 
-Nilai Tugas, UTS, dan UAS: Input berupa angka (float).
+•	Nilai Tugas, UTS, dan UAS: Input berupa angka (float).
 ```python
 nama = input("Nama       : ")
 nim = input("NIM        : ")
@@ -39,11 +39,11 @@ uas = float(input("Nilai UAS  : "))
 ## Menghitung Nilai Akhir
 Nilai akhir dihitung berdasarkan formula:
 
-Nilai Tugas: 30%
+•	Nilai Tugas: 30%
 
-Nilai UTS: 35%
+•	Nilai UTS: 35%
 
-Nilai UAS: 35%
+•	Nilai UAS: 35%
 Rumusnya adalah:
 ```python
 nilai_akhir = (0.3 * tugas) + (0.35 * uts) + (0.35 * uas)
